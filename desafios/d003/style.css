@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+
+  }
+
+  iframe {
+    display: block;
+    margin: 0 auto;
+  }
